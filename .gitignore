@@ -8,6 +8,7 @@ courseware/archive/
 courseware/qa/
 courseware/build/
 courseware/assets/
+courseware/slide_map.json
 .claude/
 QA-REPORT-*.md
 __pycache__/
