@@ -13,10 +13,10 @@ Build ISO A1, A2 and A3 layouts with correct page setups, title blocks, viewport
 ## Supplied files
 
 - `lab-reference.jpg` — the JPEG visual brief/checking image.
-- `Sink_Layouts.dwg` — AutoCAD working/source file recovered from the original PP dataset.
-- `ISO A1 title block.dwg` — AutoCAD working/source file recovered from the original PP dataset.
-- `ISO A2 title block.dwg` — AutoCAD working/source file recovered from the original PP dataset.
-- `ISO A3 title block.dwg` — AutoCAD working/source file recovered from the original PP dataset.
+- `Sink_Layouts.dwg` — supplied AutoCAD working/source file or technical drawing reference.
+- `ISO A1 title block.dwg` — supplied AutoCAD working/source file or technical drawing reference.
+- `ISO A2 title block.dwg` — supplied AutoCAD working/source file or technical drawing reference.
+- `ISO A3 title block.dwg` — supplied AutoCAD working/source file or technical drawing reference.
 
 ## Before you begin
 

@@ -13,8 +13,8 @@ Coordinate external drawings and review changes while preserving clear ownership
 ## Supplied files
 
 - `lab-reference.jpg` — the JPEG visual brief/checking image.
-- `Furniture_Floor_Plan.dwg` — AutoCAD working/source file recovered from the original PP dataset.
-- `Sink_Layouts.dwg` — AutoCAD working/source file recovered from the original PP dataset.
+- `Furniture_Floor_Plan.dwg` — supplied AutoCAD working/source file or technical drawing reference.
+- `Sink_Layouts.dwg` — supplied AutoCAD working/source file or technical drawing reference.
 
 ## Before you begin
 

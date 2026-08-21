@@ -13,7 +13,7 @@ Author and revise technical geometry with polylines, arcs, polygons, splines, re
 ## Supplied files
 
 - `lab-reference.jpg` — the JPEG visual brief/checking image.
-- `Furniture_Floor_Plan.dwg` — AutoCAD working/source file recovered from the original PP dataset.
+- `Furniture_Floor_Plan.dwg` — supplied AutoCAD working/source file or technical drawing reference.
 
 ## Before you begin
 

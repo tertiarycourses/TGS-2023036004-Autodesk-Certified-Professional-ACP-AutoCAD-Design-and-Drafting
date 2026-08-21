@@ -13,7 +13,7 @@ Develop reusable content that carries organisational data and supports consisten
 ## Supplied files
 
 - `lab-reference.jpg` — the JPEG visual brief/checking image.
-- `Furniture_Block_Attributes.dwg` — AutoCAD working/source file recovered from the original PP dataset.
+- `Furniture_Block_Attributes.dwg` — supplied AutoCAD working/source file or technical drawing reference.
 
 ## Before you begin
 
